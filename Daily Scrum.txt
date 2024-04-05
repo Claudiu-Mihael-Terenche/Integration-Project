@@ -1,0 +1,11 @@
+2024/04/04 - Elias
+1. Done / not done since last scrum:
+- Trello
+- research CI/CD
+2. To do until next Scrum:
+- Setup Db and Models
+3. Need assistance / figure things out:
+N/A
+
+
+
