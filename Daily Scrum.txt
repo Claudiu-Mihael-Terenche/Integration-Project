@@ -1,0 +1,259 @@
+24/04/06
+
+Elias
+
+1.Done/Not Done
+- CI/CD setup
+- DB setup
+2.To Do
+- Db setup
+3. Help
+N/A
+
+Claudiu
+
+1. Done
+Created Jira
+2. To do
+GitHub integration for Jira
+
+Elias
+24/04/07
+1.Done/Not Done
+- CI/CD setup
+- finished navbar,footer,featured
+2.To Do
+- login/register
+3. Help
+N/A
+
+Claudiu
+7.04.24
+1.Done
+Released the Kraken (GitHub integration for Jira)
+
+Amine
+April 8th 2024
+To Do:
+- Research and prepare the backend of the project.
+
+Ayman
+2024/04/08
+To Do
+Find Find Frontend Design
+
+Claudiu
+8.04.24
+To do:
+Research for the project
+
+Amine
+April 9th 2024
+To Do:
+- Start working on the backend.
+
+Claudiu
+9.04.24
+To do:
+Research on the project
+
+Amine
+April 10th 2024
+To Do:
+- Work on the backend.
+
+Ayman
+2024/04/10
+To Do
+Start working on FrontEnd
+
+
+Elias
+24/04/09
+1.Done/Not Done
+- finished navbar,footer,featured,home page
+2.To Do
+- login/register
+3. Help
+N/A
+
+Claudiu
+10.04.24
+Done:
+Research on the project
+
+Elias
+24/04/011
+1.Done/Not Done
+- finished register/login
+2.To Do
+- manage img/file upload
+- display user info
+-add a gig functionality
+3. Help
+N/A
+
+Amine
+April 11th 2024
+1.Done:
+-backend models and routes
+2.To Do:
+- Work on the frontend.
+
+Claudiu
+11.04.24
+To do:
+Work on the backend
+
+Claudiu
+12.04.24
+To do:
+As a seller, I want to be able to edit or delete my services
+
+Ayman
+2024-04-13
+To Do
+Finish the Frontend for login and register
+
+Claudiu
+15.04.24
+To do:
+As a buyer, I want to be able to purchase a service
+
+Elias
+15.04.24
+To do:
+Start the review system
+
+Claudiu
+16.04.24
+To do:
+Research on code
+
+Elias
+16.04.24
+To do:
+Work on some frontend
+
+Amine
+April 17th 2024
+To Do:
+- Work on the Reviews
+
+Ayman
+2024/04/17
+Find ideas to add to the project
+
+
+Elias
+17.04.24
+To do:
+Finalize review system
+
+Claudiu
+17.04.24
+Done:
+As a seller, I want to be able to edit or delete my services
+
+Amine
+April 18th 2024
+To Do:
+- update some frontend.
+
+Elias
+18.04.24
+To do:
+Research on how to implement stripe
+
+Claudiu
+18.04.24
+To do:
+Working on: As a buyer, I want to be able to purchase a service
+
+Ayman
+2024-04-18
+Helping Amine work on the backend
+
+Elias
+19.04.24
+To do:
+Start implementing stripe payment
+
+Claudiu
+19.04.24
+Done:
+As a buyer, I want to be able to purchase a service
+
+Elias
+20.04.24
+Done:
+Stripe implementation
+
+Elias
+21.04.24
+To do:
+Work on search queries
+
+Elias
+22.04.24
+To do:
+Work on file uploads in messages
+
+Amine
+April 22nd 2024
+To Do:
+- Improve the message page.
+
+Ayman
+2024-04-23
+Test and debug the message page.
+
+Elias
+23.04.24
+To do:
+toast notiffs
+
+Claudiu
+22.04.24
+To do:
+working on the code
+
+Amine
+April 23rd 2024
+To Do:
+- fix some links on the homepage.
+
+Claudiu
+22.04.24
+To do:
+working on the code
+
+Elias
+24.04.24
+To do:
+admin user
+
+Amine
+April 24 2024
+To Do:
+- fix bugs.
+
+Claudiu
+22.04.24
+To do:
+working on the code
+
+Elias
+25.04.24
+To do:
+finish admin
+
+Ayman
+2024/04/25
+To Do
+Help Elias finish admin
+
+Claudiu
+22.04.24
+To do:
+working on the code (fixing bugs)
