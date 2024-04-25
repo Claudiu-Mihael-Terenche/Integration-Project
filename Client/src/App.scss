@@ -1,0 +1,12 @@
+* {
+    .link {
+      text-decoration: none;
+      color: inherit;
+    }
+  }
+
+  input[type="text"], input[type="email"], input[type="number"],input[type="password"], textarea {
+    border-radius: 12px;
+    padding: 12px !important;   
+    border:solid 1px #777;
+  }
