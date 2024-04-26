@@ -1,0 +1,45 @@
+import React, { useState } from 'react';
+
+const SubscriptionService = () => {
+  const [isSubscribed, setIsSubscribed] = useState(false);
+  const [isProcessing, setIsProcessing] = useState(false);
+
+  const handleSubscribe = () => {
+    setIsProcessing(true); // Start processing
+    setTimeout(() => {
+      setIsSubscribed(true);
+      setIsProcessing(false); // End processing
+    }, 2000); // Simulating a network call delay
+  };
+
+  const handleCancel = () => {
+    setIsProcessing(true); // Start processing
+    setTimeout(() => {
+      setIsSubscribed(false);
+      setIsProcessing(false); // End processing
+    }, 2000); // Simulating a network call delay
+  };
+
+  return (
+    <div>
+      {!isSubscribed ? (
+        <div>
+          <h2>Subscribe to Our Service</h2>
+          <button onClick={handleSubscribe} disabled={isProcessing}>
+            {isProcessing ? 'Processing...' : 'Subscribe'}
+          </button>
+        </div>
+      ) : (
+        <div>
+          <h2>Subscription Active</h2>
+          <p>You are currently subscribed to our service.</p>
+          <button onClick={handleCancel} disabled={isProcessing}>
+            {isProcessing ? 'Processing...' : 'Cancel Subscription'}
+          </button>
+        </div>
+      )}
+    </div>
+  );
+};
+
+export default SubscriptionService;
